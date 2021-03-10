@@ -30,7 +30,7 @@
 
 *You need mysql driver for this program*
 
-*DOWNLOAD IT HERE https://www.mysql.com/products/connector/ *
+*DOWNLOAD IT HERE https://www.mysql.com/products/connector/*
 
 *Select jdbc driver*
 

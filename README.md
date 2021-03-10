@@ -10,15 +10,16 @@
    
  ***New improved version of chat program***
  
- ***Server.java and client.java
+ ***improved_server.java and improved_client.java
  Threads implemented on the server***
  
  **You will need java compiler in order to run the programs**
  
   *Java packages:java.util,javax.crypto,java.net,java.io*
+  *javac FILENAME*
  
   *Run:
-  java Server.java,
-  java client.java*
+  java improved_server.java,
+  java improved_client.java*
 
 

@@ -1,8 +1,8 @@
 # Java_projects
 
 ***Simple chat app in java with sockets.***
-**server_socket.java**
-**client_socket.java**
+**[server_socket.java]**
+**[client_socket.java]**
  
 *Basic authentication for each user with hashtable and randomhash packets.
 
@@ -14,8 +14,8 @@
    
  ***New improved version of chat program***
  
- ***improved_server.java and improved_client.java
- Threads implemented on the server***
+ **[improved_server.java and improved_client.java]**
+ *Threads implemented on the server***
  
  **You will need java compiler in order to run the programs**
  
@@ -27,6 +27,7 @@
   java improved_client.java*
 
 ***JDBC Concept (Interaction with mysql database)***
+**sql_connector.java**
 
 *You need mysql driver for this program*
 

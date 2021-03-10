@@ -29,11 +29,17 @@
 ***JDBC Concept (Interaction with mysql database)***
 
 *You need mysql driver for this program*
+
 *DOWNLOAD IT HERE https://www.mysql.com/products/connector/ *
+
 *Select jdbc driver*
+
 *After download do jar -xf FILENAME*
+
 *export CLASSPATH=PATH OF JAR FILE*
+
 *javac sql_connector.java*
+
 *java sql_connector*
 
 

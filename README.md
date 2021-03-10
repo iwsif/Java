@@ -1,4 +1,4 @@
-# java_projects
+# Java_projects
 
 ***Simple chat app in java with sockets.***
 **server_socket.java**
@@ -25,5 +25,21 @@
   *Run:
   java improved_server.java,
   java improved_client.java*
+
+***JDBC Concept (Interaction with mysql database)***
+
+*You need mysql driver for this program*
+*DOWNLOAD IT HERE https://www.mysql.com/products/connector/ *
+*Select jdbc driver*
+*After download do jar -xf FILENAME*
+*export CLASSPATH=PATH OF JAR FILE*
+*javac sql_connector.java*
+*java sql_connector*
+
+
+
+
+
+
 
 

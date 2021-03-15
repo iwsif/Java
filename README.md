@@ -1,5 +1,7 @@
 # Java_projects
 
+
+
 ***Simple chat app in java with sockets.***
 
 **[server_socket.java  && client_socket.java]**
@@ -13,7 +15,10 @@ Steps:
    
     2)Start the client javac client_socket.java.
 
--------------------------------------------------------------------------------------------------------------------------------------
+
+_________________________________________________________________________________________________________________________________________________________________
+   
+   
    
  ***New improved version of chat program***
  
@@ -25,15 +30,15 @@ Steps:
  
   Run:
   
-      javac improved_server.java 
+      javac improved_server.java && javac improved_client.java
       
-      javac improved_client.java
-      
-      java improved_server.java
-      
-      java improved_client.java
+      java improved_server.java && java improved_client.java
   
- ---------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+_________________________________________________________________________________________________________________________________________________________________
+
+
 
 ***JDBC Concept (Interaction with mysql database)***
 
@@ -45,7 +50,7 @@ Steps:
 
 Steps:
       
-     After download do jar -xf FILE
+     jar -xf FILE
 
      export CLASSPATH=PATH OF jar FILE
 
@@ -53,7 +58,9 @@ Steps:
 
      java sql_connector
 
-------------------------------------------------------------------------------------------------------------------------------------------
+
+__________________________________________________________________________________________________________________________________________________________________
+
 
 ***Extract info from website with java regex***
 

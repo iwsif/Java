@@ -6,7 +6,6 @@
  
 *Basic authentication for each user with hashtable and randomhash packets.*
 
-*Import hashtable library,randomhash library,socket library from java.net package,and java.io package.*
   
 Steps:
    
@@ -20,16 +19,18 @@ Steps:
  
  **[improved_server.java && improved_client.java]**
  
- *Threads implemented on the server***
+ *Threads implemented on the server*
  
- **You will need java compiler in order to run the programs**
- 
-  *Java packages:java.util,javax.crypto,java.net,java.io*
-  *javac FILE*
+ *You will need java compiler in order to run the programs**
  
   Run:
   
-      java improved_server.java,
+      javac improved_server.java 
+      
+      javac improved_client.java
+      
+      java improved_server.java
+      
       java improved_client.java
   
  ---------------------------------------------------------------------------------------------------------------------------------------

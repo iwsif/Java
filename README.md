@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 *Download mysql-driver here >>  https://www.mysql.com/products/connector/*
 
-Steps:
+Run:
       
      jar -xf FILE
 
@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 **domain.java**
 
-Steps:
+Run:
 
     Compile with javac FILE
 

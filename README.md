@@ -41,15 +41,15 @@ Steps:
 
 *DOWNLOAD IT HERE https://www.mysql.com/products/connector/*
 
-*Select jdbc driver*
+Steps:
+      
+     After download do jar -xf FILE
 
-*After download do jar -xf FILe*
+     export CLASSPATH=PATH OF jar FILE
 
-*export CLASSPATH=PATH OF jar FILE*
+     javac sql_connector.java
 
-*javac sql_connector.java*
-
-*java sql_connector*
+     java sql_connector
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,9 +57,11 @@ Steps:
 
 **domain.java**
 
-*Compile with javac FILE*
+Steps:
 
-*Run with java FILE*
+    Compile with javac FILE
+
+    Run with java FILE
 
 
 

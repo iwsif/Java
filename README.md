@@ -42,9 +42,7 @@ ________________________________________________________________________________
 
 **sql_connector.java**
 
-*You need mysql-driver for this program!!*
-
-*Download it HERE https://www.mysql.com/products/connector/*
+*Download mysql-driver HERE https://www.mysql.com/products/connector/*
 
 Steps:
       

@@ -6,8 +6,6 @@
 
 **server_socket.java //\\ client_socket.java**
  
-*Basic authentication for each user with hashtable and randomhash packets.*
-
   
 Run:
    
@@ -42,7 +40,7 @@ ________________________________________________________________________________
 
 **sql_connector.java**
 
-*Download mysql-driver HERE >>  https://www.mysql.com/products/connector/*
+*Download mysql-driver here >>  https://www.mysql.com/products/connector/*
 
 Steps:
       

@@ -23,7 +23,7 @@ ________________________________________________________________________________
    
  ***New improved version of chat program.***
  
- *improved_server.java && improved_client.java*
+ **improved_server.java && improved_client.java**
  
   Run:
   
@@ -59,8 +59,6 @@ Steps:
 
 __________________________________________________________________________________________________________________________________________________________________
 
-
-***Extract info from website with java regex.***
 
 **domain.java**
 

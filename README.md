@@ -4,12 +4,15 @@
 **[server_socket.java]**
 **[client_socket.java]**
  
-*Basic authentication for each user with hashtable and randomhash packets.
+*Basic authentication for each user with hashtable and randomhash packets.*
 
- Import hashtable library,randomhash library,socket library from java.net package,and java.io package.
-  Steps:
-   1)Server start javac server_socket.java
-   2)Start the client javac client_socket.java.*
+*Import hashtable library,randomhash library,socket library from java.net package,and java.io package.*
+  
+Steps:
+   
+    1)Server start javac server_socket.java
+   
+    2)Start the client javac client_socket.java.
 
 -------------------------------------------------------------------------------------------------------------------------------------
    
@@ -22,11 +25,12 @@
  **You will need java compiler in order to run the programs**
  
   *Java packages:java.util,javax.crypto,java.net,java.io*
-  *javac FILENAME*
+  *javac FILE*
  
-  *Run:
-  java improved_server.java,
-  java improved_client.java*
+  Run:
+  
+      java improved_server.java,
+      java improved_client.java
   
  ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,9 +43,9 @@
 
 *Select jdbc driver*
 
-*After download do jar -xf FILENAME*
+*After download do jar -xf FILe*
 
-*export CLASSPATH=PATH OF JAR FILE*
+*export CLASSPATH=PATH OF jar FILE*
 
 *javac sql_connector.java*
 
@@ -53,9 +57,9 @@
 
 **domain.java**
 
-*Compile with javac FILENAME*
+*Compile with javac FILE*
 
-*Run with java FILENAME*
+*Run with java FILE*
 
 
 

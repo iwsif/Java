@@ -4,7 +4,7 @@
 
 ***Simple chat app in java with sockets.***
 
-**[server_socket.java  && client_socket.java]**
+**server_socket.java  && client_socket.java**
  
 *Basic authentication for each user with hashtable and randomhash packets.*
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
    
  ***New improved version of chat program***
  
- **[improved_server.java && improved_client.java]**
+ **improved_server.java && improved_client.java**
  
  *Threads implemented on the server*
  

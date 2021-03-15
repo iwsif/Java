@@ -20,7 +20,7 @@ ________________________________________________________________________________
    
    
    
- ***New improved version of chat program***
+ ***New improved version of chat program.***
  
  *improved_server.java && improved_client.java*
  

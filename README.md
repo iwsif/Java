@@ -13,7 +13,7 @@ Steps:
    
     1)Server start javac server_socket.java
    
-    2)Start the client javac client_socket.java.
+    2)Start the client javac client_socket.java
 
 
 _________________________________________________________________________________________________________________________________________________________________
@@ -22,11 +22,7 @@ ________________________________________________________________________________
    
  ***New improved version of chat program***
  
- **improved_server.java && improved_client.java**
- 
- *Threads implemented on the server*
- 
- *You will need java compiler in order to run the programs**
+ *improved_server.java && improved_client.java*
  
   Run:
   
@@ -44,7 +40,7 @@ ________________________________________________________________________________
 
 **sql_connector.java**
 
-*You need mysql driver for this program*
+*You need mysql-driver for this program!*
 
 *Download it HERE https://www.mysql.com/products/connector/*
 

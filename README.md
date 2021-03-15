@@ -9,11 +9,12 @@
 *Basic authentication for each user with hashtable and randomhash packets.*
 
   
-Steps:
+Run:
    
-    1)Server start javac server_socket.java
-   
-    2)Start the client javac client_socket.java
+    javac server_socket.java && javac client_socket.java
+    
+    java server_socket.java
+    java client_socket.java
 
 
 _________________________________________________________________________________________________________________________________________________________________
@@ -28,7 +29,8 @@ ________________________________________________________________________________
   
       javac improved_server.java && javac improved_client.java
       
-      java improved_server.java && java improved_client.java
+      java improved_server.java
+      java improved_client.java
   
   
   

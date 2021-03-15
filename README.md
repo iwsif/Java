@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 **sql_connector.java**
 
-*You need mysql-driver for this program!*
+*You need mysql-driver for this program!!*
 
 *Download it HERE https://www.mysql.com/products/connector/*
 
@@ -58,7 +58,7 @@ Steps:
 __________________________________________________________________________________________________________________________________________________________________
 
 
-***Extract info from website with java regex***
+***Extract info from website with java regex.***
 
 **domain.java**
 
